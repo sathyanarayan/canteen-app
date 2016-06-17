@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_dark">
+    <TextView
+        android:id="@+id/position"
+        android:text="1"
+        android:layout_height="50dp"
+        android:layout_width="fill_parent"
+        android:textColor="#fffdfd" />
+    <TextView
+        android:text="BREAKFAST"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:textColor="#fffdfd" />
+
+    <TextView
+        android:id="@+id/brf1"
+        android:text="Preston North End"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:textColor="#fffdfd" />
+
+    <TextView
+        android:id="@+id/brf2"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:textColor="#fffdfd" />
+    <TextView
+        android:text="LUNCH"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:textColor="#fffdfd" />
+    <TextView
+        android:id="@+id/lunch1"
+
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:textColor="#fffdfd" />
+
+    <TextView
+        android:id="@+id/lunch2"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:textColor="#fffdfd" />
+
+    <TextView
+        android:id="@+id/lunch3"
+        android:text="40"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:textColor="#fffdfd" />
+
+    <TextView
+        android:text="SNACKS"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:textColor="#fffdfd" />
+    <TextView
+        android:id="@+id/snk1"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:textColor="#fffdfd" />
+    <TextView
+        android:id="@+id/snk2"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:textColor="#fffdfd" />
+
+</LinearLayout>
